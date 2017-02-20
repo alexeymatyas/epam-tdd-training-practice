@@ -8,7 +8,7 @@ import java.math.BigDecimal;
  * Created by Alexey on 20.02.2017.
  */
 public class CalculatorService {
-    public static BigDecimal divide(BigDecimal a, BigDecimal b) {
+    public BigDecimal divide(BigDecimal a, BigDecimal b) {
         throw new NotImplementedException();
     }
 }
